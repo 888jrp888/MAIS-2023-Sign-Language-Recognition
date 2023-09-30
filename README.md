@@ -1,1 +1,1 @@
-# MAIS-2023-sign
+# MAIS-2023-Sign-Language-Recognition
