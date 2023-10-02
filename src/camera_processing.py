@@ -34,6 +34,7 @@ else:
 
 tempsInitial = 0
 while rval:
+    frame = cv2.flip(frame, 1)
     cv2.imshow("Camera Window", frame)
     rval, frame = vc.read()
 
